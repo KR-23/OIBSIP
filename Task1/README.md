@@ -62,3 +62,15 @@ Khushi Rathore
 ## Internship
 
 Oasis Infobyte Internship Program (OIBSIP)
+
+
+## Screenshots
+
+### Home Page
+![Home Page](ss1.png)
+
+### Features Section
+![Features](ss2.png)
+![Features](ss3.png)
+![Features](ss4.png)
+![Features](ss5.png)
