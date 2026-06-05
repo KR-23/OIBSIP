@@ -1,39 +1,64 @@
-# OIBSIP - Task 1: Landing Page
+# OIBSIP Task 1 - FinPay Landing Page
 
-## Description
-This project is a responsive Landing Page created as part of the Oasis Infobyte Internship Program (OIBSIP). The project is developed using HTML and CSS to demonstrate web design fundamentals and responsive layouts.
+## Overview
+
+This project is a modern and responsive landing page for **FinPay**, a digital payment and financial services platform. The landing page is designed to provide users with information about FinPay's services, features, and benefits through an attractive and user-friendly interface.
 
 ## Features
-- Attractive and modern UI
-- Responsive design
-- Navigation bar
-- Hero section
-- About section
-- Contact section
-- Footer
-- Clean and organized layout
+
+* Responsive Navigation Bar
+* Hero Section with Call-to-Action Buttons
+* Trusted Companies Section
+* Features Showcase
+* Services Section
+* Statistics Section
+* Customer Testimonials
+* App Download Section
+* Responsive Footer
+* Mobile-Friendly Design
 
 ## Technologies Used
-- HTML5
-- CSS3
+
+* HTML5
+* CSS3
+* JavaScript
+* Flexbox
+* CSS Grid
+* Media Queries
 
 ## Project Structure
-```
+
+```text
 Task1/
 │
 ├── index.html
 ├── style.css
-├── images/
-└── README.md
+├── script.js
+├── README.md
+└── assets/
 ```
 
 ## How to Run
+
 1. Download or clone the repository.
-2. Open the Task1 folder.
-3. Run `index.html` in any web browser.
+2. Open the project folder.
+3. Run `index.html` in any modern web browser.
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+* Responsive Web Design
+* Page Layout using Flexbox and Grid
+* UI/UX Design Principles
+* Website Structure using HTML
+* Styling and Animations using CSS
+* Basic DOM Manipulation using JavaScript
 
 ## Author
+
 Khushi Rathore
 
 ## Internship
+
 Oasis Infobyte Internship Program (OIBSIP)
