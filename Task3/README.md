@@ -41,7 +41,7 @@ Task3/
 ├── ss2.png
 └── README.md
 ```
-##How to Run
+## How to Run
 - Download or clone the repository.
 - Open the Task3 project folder.
 - Run index.html in any modern web browser.
@@ -49,15 +49,15 @@ Task3/
 - Select Celsius or Fahrenheit as the input unit.
 - Click the Convert Now button to view the converted temperature.
 
-##Conversion Formula Used
-###Celsius to Fahrenheit
-°F = (°C × 9/5) + 32
-###Fahrenheit to Celsius
-°C = (°F - 32) × 5/9
-###Celsius to Kelvin
-K = °C + 273.15
+## Conversion Formula Used
+### Celsius to Fahrenheit
+- °F = (°C × 9/5) + 32
+### Fahrenheit to Celsius
+- °C = (°F - 32) × 5/9
+### Celsius to Kelvin
+- K = °C + 273.15
 
-##Learning Outcomes
+## Learning Outcomes
 - Building an interactive web application using JavaScript
 - Taking user input and validating form data
 - Using conditional statements for conversion logic
@@ -67,13 +67,13 @@ K = °C + 273.15
 - Designing modern UI elements using gradients and shadows
 
 
-##Author
+## Author
 Khushi Rathore
 
-##Internship
+## Internship
 Oasis Infobyte Internship Program (OIBSIP)
 
-##Screenshots
+## Screenshots
 ### Celsius to Fahrenheit Conversion
 
 ![Celsius to Fahrenheit Conversion](ss1.png)
