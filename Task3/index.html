@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    <div class="bg-orb orb-3"></div>
+
+    <!-- Animated Bubbles - Scattered across background -->
+    <div class="bubble bubble-1"></div>
+    <div class="bubble bubble-2"></div>
+    <div class="bubble bubble-3"></div>
+    <div class="bubble bubble-4"></div>
+    <div class="bubble bubble-5"></div>
+    <div class="bubble bubble-6"></div>
+    <div class="bubble bubble-7"></div>
+    <div class="bubble bubble-8"></div>
+    <div class="bubble bubble-9"></div>
+    <div class="bubble bubble-10"></div>
+    <div class="bubble bubble-11"></div>
+    <div class="bubble bubble-12"></div>
+    <div class="bubble bubble-13"></div>
+    <div class="bubble bubble-14"></div>
+    <div class="bubble bubble-15"></div>
+
+    <div class="container">
+        <div class="card">
+            <div class="header">
+                <h1 class="title">Temperature Converter</h1>
+                <p class="subtitle">Convert between Celsius, Fahrenheit & Kelvin</p>
+            </div>
+
+            <div class="input-group">
+                <label class="label">Enter Temperature</label>
+                <input type="number" id="tempInput" placeholder="Enter value" step="0.01">
+                <div class="error-message" id="errorMessage">Please enter a valid number</div>
+            </div>
+
+            <div class="input-group">
+                <label class="label">From Unit</label>
+                <div class="unit-selector">
+                    <div class="radio-group">
+                        <input type="radio" id="celsius" name="unit" value="celsius" checked>
+                        <label for="celsius" class="radio-label">Celsius (°C)</label>
+                    </div>
+                    <div class="radio-group">
+                        <input type="radio" id="fahrenheit" name="unit" value="fahrenheit">
+                        <label for="fahrenheit" class="radio-label">Fahrenheit (°F)</label>
+                    </div>
+                </div>
+            </div>
+
+            <button class="convert-btn" id="convertBtn">Convert Now</button>
+
+            <div class="result-section" id="resultSection" style="display: none;">
+                <div class="result-label">Converted Temperature</div>
+                <div class="result-value" id="resultValue">—</div>
+                <div class="result-unit" id="resultUnit">°C</div>
+            </div>
+
+            <div class="kelvin-section">
+                <div class="kelvin-toggle">
+                    <input type="checkbox" id="kelvinToggle" class="checkbox">
+                    <label for="kelvinToggle" class="radio-label">Also show Kelvin</label>
+                </div>
+                <div class="kelvin-result" id="kelvinResult">
+                    <div class="kelvin-value" id="kelvinValue">—</div>
+                    <div class="kelvin-unit">Kelvin (K)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
