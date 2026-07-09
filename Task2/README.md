@@ -45,30 +45,29 @@ Task2/
 └── README.md
 ```
 
-##How to Run
-Download or clone the repository.
-Open the Task2 project folder.
-Run index.html in any modern web browser.
-Learning Outcomes
+## How to Run
+- Download or clone the repository.
+- Open the Task2 project folder.
+- Run index.html in any modern web browser.
 
 
-##Through this project, I learned:
-Creating a responsive personal portfolio website
-Designing layouts using Flexbox and CSS Grid
-Structuring a webpage using semantic HTML
-Styling modern UI components using CSS
-Adding smooth navigation between webpage sections
-Creating responsive designs using media queries
-Presenting skills, projects, and contact details professionally
+## Learning Outcomes
+- Creating a responsive personal portfolio website
+- Designing layouts using Flexbox and CSS Grid
+- Structuring a webpage using semantic HTML
+- Styling modern UI components using CSS
+- Adding smooth navigation between webpage sections
+- Creating responsive designs using media queries
+- Presenting skills, projects, and contact details professionally
 
 
-##Author
+## Author
 Khushi Rathore
 
-##Internship
+## Internship
 Oasis Infobyte Internship Program (OIBSIP)
 
-##Screenshots
+## Screenshots
 ### Home Section
 ![Home Section](ss1.png)
 
